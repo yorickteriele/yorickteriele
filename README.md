@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yyyorick
 - 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning Python and C.
+- 🌱 I’m currently learning Python and C#.
 - 💞️ I’m looking to collaborate on discord.
 - 📫 How to reach me yyorick on discord.
 
