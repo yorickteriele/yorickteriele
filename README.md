@@ -1,4 +1,3 @@
-viewable on: https://yorickteriele.github.io
 - 👋 Hi, I’m @yyyorick
 - 👀 I’m interested in coding and gaming.
 - 🌱 I’m currently learning Java & C++.
