@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yyyorick
+- 👋 Hi, I’m @yorickteriele
 - 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning Java & C++.
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on discord.
 - 📫 How to reach me yyorick on discord.
 
